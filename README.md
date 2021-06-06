@@ -9,6 +9,6 @@ the arguments.
 
 Example: Python3 main.py hello123 test123 password123 
 
-The example above checks if the three passwords (hello123, test123 or password123) have been widely used.
+The example above checks if the three passwords (hello123, test123 and password123) have been widely used.
 
 You should AT LEAST get 0 results. Change your password immediately if the program returns even 1 result.
